@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.part {
+  background-color: black;
+  height: 100vh;
+}
+.part h1 {
+  color: aliceblue;
+  font-size: 40px;
+  display: block;
+  text-align: centre;
+  padding-left: 800px;
+  padding-top: 50px;
+}
+.part h2 {
+  color: aliceblue;
+  font-size: 40px;
+  display: block;
+  text-align: centre;
+}
+.part h3 {
+  color: aliceblue;
+  font-size: 40px;
+  display: block;
+  text-align: centre;
+}
+.part h4 {
+  color: aliceblue;
+  font-size: 40px;
+  display: block;
+  text-align: centre;
+}
+.part h5 {
+  color: aliceblue;
+  font-size: 40px;
+  display: block;
+  text-align: centre;
+}
